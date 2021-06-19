@@ -10,7 +10,7 @@ email: pritom01dev@gmail.com
 #### Activate tha env
 --> .\tfod\Scripts\activate
 
-### Install dependencies and add virtual environment to the Python Kernel
+#### Install dependencies and add virtual environment to the Python Kernel
 
 --> python -m pip install --upgrade pip  
 --> pip install ipykernel  
