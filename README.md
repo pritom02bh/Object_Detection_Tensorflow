@@ -15,7 +15,10 @@ email: pritom01dev@gmail.com
 --> python -m pip install --upgrade pip  
 --> pip install ipykernel  
 --> python -m ipykernel install --user --name=tfod    
+--> pip install opencv-python  
 
 ## Collect and Label Images
 In this project, I am collecting images using my webcam.  
 And I am labelling images using Labellmg
+
+--> pip install --upgrade pyqt5 lxml  
