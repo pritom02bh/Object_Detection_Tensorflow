@@ -2,7 +2,7 @@
 Pritom Bhowmik  
 email: pritom01dev@gmail.com  
 
-### Virtual Environment
+## Virtual Environment & Dependancies
 
 #### Create a virtual environment   
 --> python -m venv env_name
