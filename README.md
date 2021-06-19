@@ -2,7 +2,7 @@
 Deep Learning Models
 
 ## Virtual Environment
---> Create a virtual environment
+--> Create a virtual environment   
 --> Activate tha env
 
 ## Install dependencies and add virtual environment to the Python Kernel
